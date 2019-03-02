@@ -1,0 +1,6 @@
+com\ssh\dao\UserBaseInfoDao.class
+com\ssh\service\UserBaseInfoService.class
+com\ssh\service\impl\UserBaseInfoServiceImpl.class
+com\ssh\controller\SpringController.class
+com\ssh\dao\impl\UserBaseInfoDaoImpl.class
+com\ssh\entity\UserBaseInfo.class
